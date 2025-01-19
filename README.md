@@ -15,20 +15,19 @@ The dataset used in this project is sourced from the **[Comprehensive National N
 - **Charts**: Interactive visualizations such as heatmaps, bar charts, and trend lines.  
 
 ## Project Components  
-- **[Report](https://github.com/SimranS22/Explore-Analyze/blob/main/Comprehensive%20National%20Nutrition%20Survey%20(2016-18)/CNNS_Insights.pdf)**: Detailed presentation explaining the dashboards and insights derived from the data.  
+- **[Report](https://github.com/SimranS22/Comprehensive-National-Nutrition-Survey-Analysis/blob/main/CNNS_Insights.pdf)**: Detailed presentation explaining the dashboards and insights derived from the data.  
 - **Dashboard Images**: Key sections of the dashboard visualized for quick reference.  
 - **Video Demo**: A walkthrough of the dashboard’s functionalities and features.  
-    - [Micronutrient Deficiencies Among Children And Adolescents (2016-18)](https://github.com/SimranS22/Explore-Analyze/blob/main/Comprehensive%20National%20Nutrition%20Survey%20(2016-18)/MicronutrientDeficiencyInsightsDemo.md)
-    - [Metabolic Health and Risk Indicators Among Children and Adolescents (2016-18)](https://github.com/SimranS22/Explore-Analyze/blob/main/Comprehensive%20National%20Nutrition%20Survey%20(2016-18)/MetabolicHealthandRiskInsightsDemo.md)
-    - [Children and Adolescents Growth and Malnutrition Insights by Sex (2016-18)](https://github.com/SimranS22/Explore-Analyze/blob/main/Comprehensive%20National%20Nutrition%20Survey%20(2016-18)/GrowthandMalnutritionbySexDemo.md)
-    - [Children and Adolescents Growth and Malnutrition Insights by Residence (2016-18)](https://github.com/SimranS22/Explore-Analyze/blob/main/Comprehensive%20National%20Nutrition%20Survey%20(2016-18)/GrowthandMalnutritionbyResidenceDemo.md)
-
+    - [Micronutrient Deficiencies Among Children And Adolescents (2016-18)](https://github.com/SimranS22/Comprehensive-National-Nutrition-Survey-Analysis/blob/main/MicronutrientDeficiencyInsightsDemo.md)
+    - [Metabolic Health and Risk Indicators Among Children and Adolescents (2016-18)](https://github.com/SimranS22/Comprehensive-National-Nutrition-Survey-Analysis/blob/main/MetabolicHealthandRiskInsightsDemo.md)
+    - [Children and Adolescents Growth and Malnutrition Insights by Sex (2016-18)](https://github.com/SimranS22/Comprehensive-National-Nutrition-Survey-Analysis/blob/main/GrowthandMalnutritionbySexDemo.md)
+    - [Children and Adolescents Growth and Malnutrition Insights by Residence (2016-18)](https://github.com/SimranS22/Comprehensive-National-Nutrition-Survey-Analysis/blob/main/GrowthandMalnutritionbyResidenceDemo.md)
 - **[PBIX File](https://github.com/SimranS22/Explore-Analyze/blob/main/Comprehensive%20National%20Nutrition%20Survey%20(2016-18)/CNNS.pbix)**: Power BI file containing the dashboards and visualizations.  
 
 ## Installation  
-1. Clone the repository to your local machine, or download the **[PBIX File](https://github.com/SimranS22/Explore-Analyze/blob/main/Comprehensive%20National%20Nutrition%20Survey%20(2016-18)/CNNS.pbix)** and retrieve the dataset from the source provided above.  
+1. Clone the repository to your local machine, or download the **[PBIX File](https://github.com/SimranS22/Comprehensive-National-Nutrition-Survey-Analysis/blob/main/CNNS.pbix)** and retrieve the dataset from the source provided above.  
 2. Import the dataset into Power BI.  
-3. Open the **[Report](https://github.com/SimranS22/Explore-Analyze/blob/main/Comprehensive%20National%20Nutrition%20Survey%20(2016-18)/CNNS_Insights.pdf)** for a detailed overview of the dashboards.  
+3. Open the **[Report](https://github.com/SimranS22/Comprehensive-National-Nutrition-Survey-Analysis/blob/main/CNNS_Insights.pdf)** for a detailed overview of the dashboards.  
 4. Review the **Dashboard Images** for visual references.  
 5. Watch the **Video Demo** for a step-by-step walkthrough of the dashboard’s features.  
 
